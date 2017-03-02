@@ -1,4 +1,4 @@
-﻿# Things To Learn
+# Things To Learn
 ## March 2nd
 #### Things to practice
 - Working with Git, Git Kraken, source control
